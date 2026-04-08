@@ -1,0 +1,20 @@
+# Discord Data Export files (not part of this tool)
+Messages/
+Account/
+Activity/
+Activities/
+Ads/
+Servers/
+Support_Tickets/
+Programs/
+README.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
