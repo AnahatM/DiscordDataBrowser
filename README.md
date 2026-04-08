@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnahatM/DiscordDataBrowser/main/images/icon.png" alt="Discord Data Browser Logo" width="100" />
+  <img src="images/icon.svg" alt="Discord Data Browser Logo" width="100" />
 </p>
 
 <h1 align="center">Discord Data Browser</h1>
@@ -47,7 +47,7 @@ Your data **never leaves your computer** — everything runs locally in your bro
 ## Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnahatM/DiscordDataBrowser/main/images/screenshot.png" alt="Discord Data Browser Screenshot" width="800" />
+  <img src="images/screenshot.png" alt="Discord Data Browser Screenshot" width="800" />
 </p>
 
 ---
